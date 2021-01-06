@@ -1,3 +1,4 @@
 class DockingStation
-  #Hello Salar
+  def release_bike
+  end
 end
